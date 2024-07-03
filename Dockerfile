@@ -1,5 +1,5 @@
 # define base image
-FROM node:lts-slim
+FROM node:20.15.0-slim
 
 # download all the missing dependencies for chromium, plus chromium itself
 RUN apt-get update && apt-get install -y \
