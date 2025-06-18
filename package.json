@@ -80,7 +80,7 @@
     "jeremielodi"
   ],
   "dependencies": {
-    "@ima-worldhealth/coral": "^2.13.0",
+    "@ima-worldhealth/coral": "^2.15.0",
     "@ima-worldhealth/odk-central-api-cjs": "^2.4.0",
     "@ima-worldhealth/tree": "^2.6.0",
     "@types/angular": "^1.8.4",
@@ -140,7 +140,7 @@
     "q": "^1.5.1",
     "qrcode": "^1.5.1",
     "stream-to-promise": "^3.0.0",
-    "tempy": "^1.0.1",
+    "tempy": "^3.0.0",
     "typeface-open-sans": "^1.1.13",
     "ui-select": "0.17.1",
     "use-strict": "^1.0.1",
